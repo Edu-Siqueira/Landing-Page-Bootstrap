@@ -1,0 +1,16 @@
+body{
+    background-image: url("assets/backgroundLp.png");
+    background-size: cover;
+}
+
+.img-fluid{
+    width: 200px;
+}
+
+.card{
+    background-color: #131212f1;
+}
+
+.form-check-label{
+    color: #fff;
+}
