@@ -14,3 +14,13 @@ body{
 .form-check-label{
     color: #fff;
 }
+
+.gitLink{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.4s linear;
+}
+
+.gitLink:hover{
+    color: #ff0043;
+}
